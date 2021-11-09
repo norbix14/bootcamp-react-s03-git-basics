@@ -8,7 +8,7 @@
 
 * crear 2 archivos: README.md, server.js - (PUSH)
 
-* crear 3 carpetas / directorios vacíos. models, controllers, views y enviarlos - (push)
+* crear 3 carpetas / directorios vacíos. models, controllers, views y enviarlos - (PUSH)
 
 * agregar script en el archivo server.js. server > "echo server with deno.js" y enviar - (PUSH)
 
